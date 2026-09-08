@@ -1,6 +1,6 @@
 from datetime import date
 import pytest
-from republican_calender import (
+from republican_calendar import (
     gregorian_to_republican,
     republican_to_gregorian,
     get_decade_day_name,
